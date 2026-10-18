@@ -1,0 +1,39 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JazzCash L0 to L1 Upgrade </title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f6f4;
+      margin: 0;
+      padding: 24px;
+      color: #18352b;
+    }
+    main {
+      max-width: 500px;
+      margin: 30px auto;
+      background: white;
+      padding: 24px;
+      border-radius: 16px;
+    }
+    h1 { color: #087443; }
+    a, button { color: #087443; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>JazzCash L0 to L1 </h1>
+    <p>Welcome to our account upgrade .</p>
+    
+    <ol>
+      <li>Open your official JazzCash app.</li>
+      <li>Check the account verification or upgrade options.</li>
+      <li>Follow the instructions shown by JazzCash.</li>
+      
+    <p><strong>Security notice:</strong> Never share your PIN or OTP.</p>or upgrade accounts.</p>
+  </main>
+</body>
+</html>
