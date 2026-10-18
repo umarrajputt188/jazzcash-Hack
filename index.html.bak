@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JazzCash L0 to L1 Upgrade Guide</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f6f4;
+      margin: 0;
+      padding: 24px;
+      color: #18352b;
+    }
+    main {
+      max-width: 500px;
+      margin: 30px auto;
+      background: white;
+      padding: 24px;
+      border-radius: 16px;
+    }
+    h1 { color: #087443; }
+    a, button { color: #087443; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>JazzCash L0 to L1 Guide</h1>
+    <p>Welcome to our account upgrade information guide.</p>
+    <h2>How to upgrade</h2>
+    <ol>
+      <li>Open your official JazzCash app.</li>
+      <li>Check the account verification or upgrade options.</li>
+      <li>Follow the instructions shown by JazzCash.</li>
+      <li>Contact official support if biometric verification is required.</li>
+    </ol>
+    <p><strong>Security notice:</strong> Never share your PIN or OTP.</p>
+    <p>This is an independent information guide, not an official JazzCash website. It cannot check or upgrade accounts.</p>
+    <p><a href="https://www.jazzcash.com.pk/">Visit JazzCash official website</a></p>
+  </main>
+</body>
+</html>
